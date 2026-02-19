@@ -91,16 +91,4 @@ If you'd like me to add a specific example program, tests, or CI config, tell me
 - Some files in `mods/` are experimental and may be in-progress. Inspect them before running.
 - Paths in examples assume you run commands from the repository root (`zelda/`).
 
-## License
-
-No license specified. If you want this project to be open source, add a `LICENSE` file (e.g., MIT, Apache-2.0).
-
----
-
-If you'd like, I can also:
-
-- add a small `examples/` runner that loads JSON and prints a summary,
-- run `go build` to verify compilation in this environment,
-- or add a `LICENSE` file.
-
-Tell me which next step you prefer.
+pssssss check every commits
